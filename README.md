@@ -11,7 +11,7 @@ Neste trabalho trabalho criei uma calculadora de IMC, desenvolvida em JavaScript
    
 ## Tecnologias Aprendidas:
  - HTML.
- - Js
+ - JS
  - CSS.
 
 ## Contatos:
