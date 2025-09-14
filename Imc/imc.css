@@ -39,6 +39,8 @@ button {
     background: white;
     text-decoration: solid;
     font-weight: bold;
+    cursor:pointer;
 }
+
 
 
